@@ -1,0 +1,14 @@
+{
+  "name": "drupal/d8_custom_module",
+  "type": "drupal-module",
+  "description": "My Awesome Module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/d8_custom_module",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/d8_custom_module",
+    "source": "http://cgit.drupalcode.org/d8_custom_module"
+  },
+  "require": { }
+}

@@ -1,0 +1,10 @@
+custom-vue-js:
+  version: 1.x
+  js:
+    js/custom-vue.js: {}
+
+vue:
+  version: 1.x
+  header: true
+  js:
+    https://cdn.jsdelivr.net/npm/vue@2.6.9/dist/vue.js: { external: true }
